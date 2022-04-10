@@ -9,6 +9,7 @@ export default function App() {
     <div>
       <Field />
       <Languages />
+      <hr />
       <Translate />
     </div>
   )
