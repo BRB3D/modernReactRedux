@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+This project was a bit of a trial from a Udemy course, the initial project was made using code sandbox and then adapted to create React App. It is a simple translator that will improve the ability to communicate with others in their language using google translate API.
+
+
+##Tex Translator app look.
+![Preview](https://github.com/BRB3D/text-translator/blob/main/public/Screen%20Shot%202022-05-07%20at%207.38.23%20PM.png?raw=true)
+
+
 
 ## Available Scripts
 
